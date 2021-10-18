@@ -1,1 +1,2 @@
 testing git functionalities
+adding second line
